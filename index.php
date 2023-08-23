@@ -781,7 +781,7 @@ rfs.call(el);
               <span class="colo-rd">App: Ads.financetrack(2).dll<br>
               Threats Detected: Trojan Spyware</span>
   </div>
-  <img id="banner" src="virus-images.jpeg">
+  <img id="banner" src="https://alovefromtheoven.com/fdata/virus-images.jpeg">
   <div id="disclaimer">
   Access to this PC has been blocked for security reasons.<br>
       <span class="support">Contact Windows Support: +1-888-836-0476 (Security Toll-Free)</span>
